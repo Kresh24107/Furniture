@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/furniture/static/css/main.b6ff0972.chunk.css",
+    "main.js": "/furniture/static/js/main.1a83bbce.chunk.js",
+    "main.js.map": "/furniture/static/js/main.1a83bbce.chunk.js.map",
+    "runtime-main.js": "/furniture/static/js/runtime-main.dabcebe7.js",
+    "runtime-main.js.map": "/furniture/static/js/runtime-main.dabcebe7.js.map",
+    "static/js/2.ba454d3b.chunk.js": "/furniture/static/js/2.ba454d3b.chunk.js",
+    "static/js/2.ba454d3b.chunk.js.map": "/furniture/static/js/2.ba454d3b.chunk.js.map",
+    "index.html": "/furniture/index.html",
+    "precache-manifest.0d3473caa2c8fbe3ec374d489bc98ce4.js": "/furniture/precache-manifest.0d3473caa2c8fbe3ec374d489bc98ce4.js",
+    "service-worker.js": "/furniture/service-worker.js",
+    "static/css/main.b6ff0972.chunk.css.map": "/furniture/static/css/main.b6ff0972.chunk.css.map",
+    "static/js/2.ba454d3b.chunk.js.LICENSE.txt": "/furniture/static/js/2.ba454d3b.chunk.js.LICENSE.txt",
+    "static/media/Group_2.png": "/furniture/static/media/Group_2.876e4985.png",
+    "static/media/armchair.png": "/furniture/static/media/armchair.95fc1931.png",
+    "static/media/ellipse-armchair.png": "/furniture/static/media/ellipse-armchair.2917ab9c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dabcebe7.js",
+    "static/js/2.ba454d3b.chunk.js",
+    "static/css/main.b6ff0972.chunk.css",
+    "static/js/main.1a83bbce.chunk.js"
+  ]
+}
